@@ -1,6 +1,6 @@
-//JUNE//
-//Terrivez
-//supremeLord
+//NIMA V5//
+//nima coder
+//NIMESHA MADHUSHAN
 
 
 require('./settings')
